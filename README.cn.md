@@ -1,6 +1,6 @@
 # Deep Reading · Claude Code 深度阅读技能
 
-[English](README.en.md) | 中文
+[English](README.md) | 中文
 
 **Token 效率优先的读书流程**：章节原文只在 fork 子代理里读，主会话只收讲解和记忆。
 *(A token-efficient deep-reading skill for Claude Code.)*
