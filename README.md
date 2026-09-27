@@ -1,6 +1,6 @@
 # Deep Reading · A Token-Efficient Reading Skill for Claude Code
 
-[中文](README.md) | English
+[中文](README.cn.md) | English
 
 **Token efficiency first**: chapter source text is read only inside forked subagents — the main session receives nothing but explanations and memory.
 
