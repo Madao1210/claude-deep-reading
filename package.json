@@ -1,0 +1,15 @@
+{
+  "name": "deep-reading",
+  "version": "0.2.0",
+  "description": "Deep Reading：token 效率优先的读书技能（Claude Code 版）——导入拆章、逐章精读、记忆续读、讲解 EPUB 导出",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@storyteller-platform/epub": "^0.8.1",
+    "turndown": "^7.2.4",
+    "yazl": "^3.3.1"
+  }
+}
